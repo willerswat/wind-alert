@@ -1,4 +1,4 @@
-# Wind Alert - San Francesco al Campo
+# Wind Alert
 
 Notifiche Telegram automatiche quando il vento a San Francesco supera le soglie o quando sta per arrivare un temporale. Gira su **GitHub Actions** (gratis), controlla il meteo ogni 15 minuti, manda solo alert utili (niente spam) e ti fa anche un preavviso di 1-3 ore per avere tempo di ammainare le tende.
 
