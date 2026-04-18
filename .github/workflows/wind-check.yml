@@ -1,0 +1,62 @@
+name: Wind Alert Check
+
+# Gira ogni 15 minuti (UTC). GitHub può ritardare fino a qualche minuto durante alto carico.
+# Il workflow_dispatch permette di lanciarlo manualmente dalla UI per testare.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "wind_alert.py"
+      - "config.json"
+      - ".github/workflows/wind-check.yml"
+
+# Serve permesso scrittura per ricommittare state.json aggiornato
+permissions:
+  contents: write
+
+# Evita esecuzioni sovrapposte
+concurrency:
+  group: wind-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run wind check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python wind_alert.py
+
+      - name: Commit state
+        run: |
+          git config user.name  "wind-alert-bot"
+          git config user.email "actions@github.com"
+          git add state.json wind_alert.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Nessun cambio di stato da committare."
+          else
+            git commit -m "chore: update wind state [skip ci]"
+            # Retry push in caso di race con altri workflow
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push fallito, retry $i"
+              sleep 5
+            done
+          fi
