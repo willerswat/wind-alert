@@ -1,12 +1,12 @@
 {
   "location": {
     "name": "San Francesco al Campo",
-    "latitude": 45.2167,
-    "longitude": 7.65
+    "latitude": 45.24244261955126, 
+    "longitude": 7.6559004888296736
   },
   "thresholds": {
-    "warning_gust_kmh": 30,
-    "critical_gust_kmh": 50,
+    "warning_gust_kmh": 20,
+    "critical_gust_kmh": 40,
     "sudden_delta_kmh": 15,
     "forecast_hours": 3
   },
