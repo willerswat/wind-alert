@@ -60,3 +60,4 @@
 [2026-04-21 22:44:00] Alert inviati: ['forecast'] | gust=16
 [2026-04-21 23:32:01] Alert inviati: ['level_up'] | gust=22
 [2026-04-22 00:24:34] OK - gust=23 speed=13 level=warning (fcst max 24)
+[2026-04-22 01:04:43] OK - gust=26 speed=15 level=warning (fcst max 27)
