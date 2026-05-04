@@ -271,3 +271,4 @@
 [2026-05-04 06:56:10] OK - gust=9 speed=5 level=ok (fcst max 10)
 [2026-05-04 09:45:59] OK - gust=13 speed=7 level=ok (fcst max 15)
 [2026-05-04 12:08:40] OK - gust=16 speed=4 level=ok (fcst max 16)
+[2026-05-04 14:04:24] Alert inviati: ['forecast'] | gust=9
