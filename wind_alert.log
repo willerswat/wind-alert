@@ -384,3 +384,4 @@
 [2026-05-12 08:47:24] OK - gust=16 speed=10 level=ok (fcst max 19)
 [2026-05-12 11:32:05] Alert inviati: ['level_up'] | gust=23
 [2026-05-12 13:33:31] Alert inviati: ['sudden'] | gust=32
+[2026-05-12 15:24:30] OK - gust=31 speed=15 level=warning (fcst max 27)
