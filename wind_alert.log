@@ -573,3 +573,4 @@
 [2026-05-28 18:32:13] Alert inviati: ['forecast'] | gust=18
 [2026-05-28 21:19:39] Alert inviati: ['forecast'] | gust=18
 [2026-05-28 23:28:57] Alert inviati: ['level_up', 'sudden'] | gust=38
+[2026-05-29 00:56:40] OK - gust=29 speed=18 level=warning (fcst max 38)
