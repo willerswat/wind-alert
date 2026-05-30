@@ -595,3 +595,4 @@
 [2026-05-30 20:37:00] Alert inviati: ['level_up', 'sudden'] | gust=30
 [2026-05-30 21:52:29] OK - gust=21 speed=4 level=warning (fcst max 16)
 [2026-05-30 22:50:12] Alert inviati: ['recovery'] | gust=9
+[2026-05-30 23:56:00] OK - gust=9 speed=5 level=ok (fcst max 10)
