@@ -792,3 +792,4 @@
 [2026-06-21 19:00:57] Alert inviati: ['storm_now'] | gust=13
 [2026-06-21 20:48:01] Alert inviati: ['level_up', 'sudden'] | gust=31
 [2026-06-21 22:20:35] Alert inviati: ['level_up', 'sudden'] | gust=53
+[2026-06-21 23:51:15] Alert inviati: ['recovery'] | gust=18
