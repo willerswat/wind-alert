@@ -803,3 +803,4 @@
 [2026-06-23 01:22:12] Alert inviati: ['level_up', 'sudden'] | gust=30
 [2026-06-23 03:28:11] OK - gust=22 speed=12 level=warning (fcst max 21)
 [2026-06-23 07:42:20] Alert inviati: ['recovery'] | gust=8
+[2026-06-23 10:46:23] OK - gust=16 speed=8 level=ok (fcst max 16)
