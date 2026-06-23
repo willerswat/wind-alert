@@ -808,3 +808,4 @@
 [2026-06-23 16:38:25] OK - gust=18 speed=12 level=ok (fcst max 17)
 [2026-06-23 19:04:03] Alert inviati: ['forecast', 'storm_forecast'] | gust=20
 [2026-06-23 21:18:16] Alert inviati: ['level_up', 'sudden', 'storm_now'] | gust=46
+[2026-06-23 23:12:46] Alert inviati: ['recovery'] | gust=20
