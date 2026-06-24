@@ -818,3 +818,4 @@
 [2026-06-24 15:54:24] Alert inviati: ['forecast', 'recovery'] | gust=15
 [2026-06-24 18:13:00] Alert inviati: ['level_up', 'sudden'] | gust=52
 [2026-06-24 20:08:21] Alert inviati: ['sudden'] | gust=37
+[2026-06-24 22:05:28] Alert inviati: ['recovery'] | gust=11
