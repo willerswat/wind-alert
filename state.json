@@ -1,13 +1,8 @@
 {
   "last_level": "warning",
-  "last_gust": 21.6,
-  "last_check": "2026-06-27 17:38:57",
+  "last_gust": 26.3,
+  "last_check": "2026-06-27 18:44:57",
   "history": [
-    {
-      "ts": "2026-06-26 19:56",
-      "gust": 23.0,
-      "speed": 10.4
-    },
     {
       "ts": "2026-06-26 21:43",
       "gust": 15.1,
@@ -62,6 +57,11 @@
       "ts": "2026-06-27 17:38",
       "gust": 21.6,
       "speed": 11.4
+    },
+    {
+      "ts": "2026-06-27 18:44",
+      "gust": 26.3,
+      "speed": 6.6
     }
   ],
   "storm_forecast_warned": false,
