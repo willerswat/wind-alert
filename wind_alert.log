@@ -867,3 +867,4 @@
 [2026-06-28 20:41:24] OK - gust=28 speed=11 level=warning (fcst max 24)
 [2026-06-28 21:58:55] OK - gust=20 speed=13 level=warning (fcst max 46)
 [2026-06-28 23:07:20] Alert inviati: ['level_up', 'sudden'] | gust=46
+[2026-06-29 00:13:40] OK - gust=24 speed=8 level=warning (fcst max 13)
