@@ -863,3 +863,4 @@
 [2026-06-28 14:52:29] OK - gust=10 speed=5 level=ok (fcst max 16)
 [2026-06-28 16:44:49] Alert inviati: ['level_up', 'sudden'] | gust=53
 [2026-06-28 17:58:16] Alert inviati: ['recovery'] | gust=16
+[2026-06-28 19:16:10] Alert inviati: ['level_up'] | gust=60
