@@ -893,3 +893,4 @@
 [2026-07-01 10:55:02] Alert inviati: ['storm_forecast'] | gust=5
 [2026-07-01 13:55:47] Alert inviati: ['forecast'] | gust=19
 [2026-07-01 16:26:34] Alert inviati: ['level_up', 'sudden'] | gust=34
+[2026-07-01 18:54:36] Alert inviati: ['recovery'] | gust=14
