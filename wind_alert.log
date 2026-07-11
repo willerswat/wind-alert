@@ -1009,3 +1009,4 @@
 [2026-07-11 11:57:14] OK - gust=11 speed=4 level=ok (fcst max 13)
 [2026-07-11 13:05:02] Alert inviati: ['forecast'] | gust=12
 [2026-07-11 14:03:22] Alert inviati: ['storm_forecast'] | gust=11
+[2026-07-11 15:51:33] Alert inviati: ['level_up', 'sudden'] | gust=46
