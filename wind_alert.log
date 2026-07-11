@@ -1011,3 +1011,4 @@
 [2026-07-11 14:03:22] Alert inviati: ['storm_forecast'] | gust=11
 [2026-07-11 15:51:33] Alert inviati: ['level_up', 'sudden'] | gust=46
 [2026-07-11 16:46:59] Alert inviati: ['sudden', 'storm_now'] | gust=50
+[2026-07-11 17:49:20] OK - gust=37 speed=17 level=warning (fcst max 44)
