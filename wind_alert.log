@@ -1010,3 +1010,4 @@
 [2026-07-11 13:05:02] Alert inviati: ['forecast'] | gust=12
 [2026-07-11 14:03:22] Alert inviati: ['storm_forecast'] | gust=11
 [2026-07-11 15:51:33] Alert inviati: ['level_up', 'sudden'] | gust=46
+[2026-07-11 16:46:59] Alert inviati: ['sudden', 'storm_now'] | gust=50
