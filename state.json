@@ -1,13 +1,8 @@
 {
-  "last_level": "critical",
-  "last_gust": 50.4,
-  "last_check": "2026-07-15 14:40:48",
+  "last_level": "warning",
+  "last_gust": 21.2,
+  "last_check": "2026-07-15 16:25:14",
   "history": [
-    {
-      "ts": "2026-07-14 20:15",
-      "gust": 16.6,
-      "speed": 9.3
-    },
     {
       "ts": "2026-07-14 21:49",
       "gust": 10.1,
@@ -62,9 +57,13 @@
       "ts": "2026-07-15 14:40",
       "gust": 50.4,
       "speed": 8.0
+    },
+    {
+      "ts": "2026-07-15 16:25",
+      "gust": 21.2,
+      "speed": 10.5
     }
   ],
   "storm_forecast_warned": true,
-  "last_forecast_alert_ts": "2026-07-11T13:05:01.910118",
-  "last_storm_code": 96
+  "last_forecast_alert_ts": "2026-07-11T13:05:01.910118"
 }
