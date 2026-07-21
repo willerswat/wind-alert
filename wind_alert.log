@@ -1163,3 +1163,4 @@
 [2026-07-21 16:59:34] Alert inviati: ['forecast'] | gust=13
 [2026-07-21 18:26:31] OK - gust=18 speed=12 level=ok (fcst max 20)
 [2026-07-21 19:52:37] Alert inviati: ['level_up'] | gust=22
+[2026-07-21 21:10:09] Alert inviati: ['recovery'] | gust=18
