@@ -1223,3 +1223,4 @@
 [2026-07-25 21:54:19] Alert inviati: ['forecast', 'storm_forecast', 'recovery'] | gust=9
 [2026-07-25 22:42:25] Alert inviati: ['storm_now'] | gust=18
 [2026-07-25 23:36:27] OK - gust=19 speed=5 level=ok (fcst max 25)
+[2026-07-26 00:35:50] Alert inviati: ['level_up'] | gust=20
