@@ -1295,3 +1295,4 @@
 [2026-07-31 06:40:07] OK - gust=9 speed=6 level=ok (fcst max 9)
 [2026-07-31 09:33:34] OK - gust=6 speed=3 level=ok (fcst max 13)
 [2026-07-31 12:14:41] Alert inviati: ['forecast'] | gust=13
+[2026-07-31 14:18:50] Alert inviati: ['forecast', 'storm_now', 'storm_forecast'] | gust=19
