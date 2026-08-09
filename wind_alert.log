@@ -1457,3 +1457,4 @@
 [2026-08-09 19:25:14] OK - gust=44 speed=17 level=critical (fcst max 38)
 [2026-08-09 19:56:55] OK - gust=41 speed=16 level=critical (fcst max 38)
 [2026-08-09 20:38:11] OK - gust=31 speed=13 level=warning (fcst max 22)
+[2026-08-09 21:18:36] Alert inviati: ['recovery'] | gust=20
