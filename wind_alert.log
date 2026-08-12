@@ -1519,3 +1519,4 @@
 [2026-08-12 13:29:35] OK - gust=30 speed=7 level=warning (fcst max 18)
 [2026-08-12 14:25:13] Alert inviati: ['recovery'] | gust=17
 [2026-08-12 15:54:24] OK - gust=14 speed=4 level=ok (fcst max 13)
+[2026-08-12 16:51:23] OK - gust=9 speed=4 level=ok (fcst max 9)
