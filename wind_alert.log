@@ -1652,3 +1652,4 @@
 [2026-08-16 16:50:29] Alert inviati: ['level_up', 'sudden'] | gust=37
 [2026-08-16 17:14:45] Alert inviati: ['level_up', 'sudden'] | gust=44
 [2026-08-16 17:38:11] OK - gust=46 speed=24 level=critical (fcst max 51)
+[2026-08-16 17:56:18] OK - gust=45 speed=27 level=critical (fcst max 51)
