@@ -1693,3 +1693,4 @@
 [2026-08-17 14:31:10] Alert inviati: ['forecast'] | gust=15
 [2026-08-17 15:24:54] OK - gust=19 speed=11 level=ok (fcst max 22)
 [2026-08-17 15:59:24] OK - gust=18 speed=13 level=ok (fcst max 22)
+[2026-08-17 16:33:13] Alert inviati: ['forecast'] | gust=20
