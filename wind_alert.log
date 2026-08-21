@@ -1841,3 +1841,4 @@
 [2026-08-21 08:44:37] Alert inviati: ['storm_now'] | gust=8
 [2026-08-21 09:29:39] Alert inviati: ['level_up', 'sudden'] | gust=26
 [2026-08-21 10:06:50] OK - gust=22 speed=9 level=warning (fcst max 19)
+[2026-08-21 10:55:48] Alert inviati: ['recovery'] | gust=17
