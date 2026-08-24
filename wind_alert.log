@@ -1986,3 +1986,4 @@
 [2026-08-24 18:28:57] OK - gust=9 speed=5 level=ok (fcst max 12)
 [2026-08-24 19:05:20] Alert inviati: ['forecast', 'storm_forecast'] | gust=9
 [2026-08-24 20:30:38] OK - gust=11 speed=4 level=ok (fcst max 38)
+[2026-08-24 21:16:07] Alert inviati: ['forecast', 'storm_now'] | gust=16
